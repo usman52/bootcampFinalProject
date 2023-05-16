@@ -1,0 +1,69 @@
+.activity-item {
+    margin: 1rem 0;
+  }
+  
+  .activity-item__content {
+    padding: 0;
+  }
+  
+  .activity-item__info {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .activity-item__info span {
+    font-weight: bold;
+    margin: 0 100px;
+  }
+  
+  .activity-item__image {
+    width: 100%;
+    height: 12.5rem;
+    margin-right: 1.5rem;
+  }
+  
+  .activity-item__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .activity-item__info h2,
+  .activity-item__info h3,
+  .activity-item__info p {
+    margin: 0 0 0.5rem 0;
+  }
+  
+  .activity-item__actions {
+    padding: 1rem;
+    text-align: center;
+    border-top: 1px solid #ccc;
+  }
+  
+  .activity-item__modal-content {
+    padding: 0;
+  }
+  
+  .activity-item__modal-actions {
+    text-align: right;
+  }
+  
+  .activity-item__modal-actions {
+    text-align: right;
+  }
+  
+  .activity-item__actions button,
+  .activity-item__actions a {
+    margin: 0.5rem;
+  }
+  
+  .map-container {
+    height: 15rem;
+    width: 100%;
+  }
+  
+  @media (min-width: 768px) {
+    .activity-item__image {
+      height: 20rem;
+    }
+  }

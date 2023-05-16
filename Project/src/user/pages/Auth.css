@@ -1,0 +1,21 @@
+.authentication__header {
+    color: white;
+    text-align: center;
+  }
+  
+  .authentication {
+    width: 90%;
+    max-width: 25rem;
+    margin: 7rem auto;
+  }
+  
+  .auth-header {
+    text-align: center;
+  }
+  p {
+    font-size: 20px;
+  }
+  
+  .authentication form {
+    margin-bottom: 1rem;
+  }
